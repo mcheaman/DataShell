@@ -3,7 +3,7 @@ DataShell uses a deep understanding of Data Structures to solve complex problems
 ## Data Structures used:  
 - Linked List  
 - Array  
-- 2D Array  
+- Matrix
 - ArrayList  
 - Binary Search Tree  
 - Hash Table  
